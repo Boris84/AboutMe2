@@ -1,0 +1,56 @@
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES */
+
+/* media queries laptop 1125px - 1600px */
+@media only screen and (max-width: 1600px) {
+
+}
+
+  /* media queries tablet (landscape) 800px - 1125px */
+@media only screen and (max-width: 1125px) and (orientation: landscape) {
+
+}
+
+
+/* media queries tablet (potrait) 800px - 1125px */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* media queries tablet (potrait) 480px */
+@media only screen and (max-width: 480px) and (orientation: portrait) {
+
+}
