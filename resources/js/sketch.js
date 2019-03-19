@@ -42,5 +42,5 @@ class bubble {
     ellipse(this.x, this.y, this.diameter, this.diameter);
     fill(this.color);
     }  
-}
+  }
 
